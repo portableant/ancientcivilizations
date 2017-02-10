@@ -1,0 +1,12 @@
+#center {
+	position: absolute;
+	left:50%;
+	width:640px;
+	margin-left:-320px;
+}
+
+#content {
+	clear: both;
+	position:relative;
+	float: right;
+}

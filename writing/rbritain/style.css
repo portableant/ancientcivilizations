@@ -1,0 +1,41 @@
+body {
+	background-color: #aa1212;
+	color: White;
+	background-image : url(../images/bg_cir.gif);
+
+	/* these styles are only visible in a limited number of browsers */
+	scrollbar-track-color : Gray;
+	scrollbar-3dlight-color : #303030;
+	scrollbar-arrow-color : Black;
+	scrollbar-base-color : Green;
+	scrollbar-darkshadow-color : #171717;
+	scrollbar-face-color : Gray;
+	scrollbar-highlight-color : #A9A9A9;
+	scrollbar-shadow-color : #bbbbbb;
+}
+
+a :link {
+	color: Teal;
+	background-color : transparent;
+}
+
+a :visited {
+	color: #004D4D;
+	background-color : transparent;
+}
+
+a:hover {
+	color: #f00;
+	text-decoration: none;
+}
+
+
+a :active {
+	color: Gray;
+	background-color : transparent;
+}
+
+td {
+	font-family: helvetica,arial,sans-serif;
+	color : White;
+}

@@ -1,0 +1,143 @@
+Movie Report
+-------------
+FrameFrame #    Frame Bytes    Total Bytes    Page
+------------    -----------    -----------    ---------------
+    1          6339           6339        loadingText
+    2        161918         168257        main
+
+Page                       Shape Bytes    Text Bytes
+-----------------------    -----------    ----------
+loadingText                       0             0
+main                              0             0
+
+Embedded Objects                660             0
+
+Page                       Symbol Bytes    Text Bytes
+-----------------------    ------------    ----------
+midbut                          143             0
+movie                             0            84
+fader                            41             0
+Tween 2                           0             0
+Tween 1                           0             0
+intro                             0            62
+door_3                            0             0
+door_1                            0             0
+Symbol 148                      694             0
+Symbol 147                      255             0
+Symbol 146                      429             0
+lintel 16                         0             0
+lintel 16                         0             0
+17colour                          0             0
+lintel_15                         0             0
+filler                            0             0
+content                           0           215
+close button                     73            75
+slideoutPanel                     0             0
+glyphs 17                       585             0
+head dress                     1681             0
+neck_17                         447             0
+17 face                         419             0
+cloak 17                        283             0
+thigh                           371             0
+sheildr                         368             0
+ankles                          189             0
+seat                              0             0
+man_tor                         808             0
+bowl_left                       454             0
+womans face                     275             0
+womans headdress               1047             0
+womans_body                    1010             0
+glyph 16                        521             0
+brid man face                   351             0
+left hand                       215             0
+face man                        265             0
+par                             420             0
+man                             888             0
+spear                           684             0
+knee cuffs                      616             0
+cuffs                           578             0
+head dress                     1714             0
+body                            758             0
+lady                           1386             0
+snake head                      381             0
+cloak                           631             0
+lady_bowl                       441             0
+hair                           1056             0
+med                             249             0
+neck lace                       278             0
+snake                           964             0
+bowl                            531             0
+glyphs3                         637             0
+glyphs2                         727             0
+glyphs1                         431             0
+right_button                     83             0
+middle_door                      82             0
+left_door_button                 87             0
+border                           41             0
+main                              0             0
+backbutton                      131            42
+door_middle                       0             0
+door_right                       40             0
+door_left                         0             0
+9right                         1155             0
+8right                         1293             0
+7right                         1623             0
+6right                         3861             0
+5right                         7722             0
+4right                            0             0
+3right                            0             0
+2right                            0             0
+9mid                            536             0
+8mid                            755             0
+7mid                           1212             0
+6mid                           3975             0
+5mid                              0             0
+4mid                              0             0
+3mid                              0             0
+2mid                              0             0
+1                                 0             0
+17                             1131             0
+16                              502             0
+15                              434             0
+14                              430             0
+13                              584             0
+12                              624             0
+11                              663             0
+10                              645             0
+9left                             0             0
+8left                             0             0
+7left                             0             0
+6left                             0             0
+5left                             0             0
+4left                             0             0
+3left                             0             0
+2left                             0             0
+tween colours                     0             0
+tween colours 17                  0             0
+tween colours 16                  0             0
+TextPager2                        0            77
+TextPager_moreBtn                 0           117
+TextPager_backBtn                 0           117
+SerialPreloader - deliberately disabled        0             0
+serialPreloader_deadPreview       43             0
+serialPreloader_preloadbar       39             0
+serialPreloader_preloadbar_inner       39             0
+
+Bitmap                     Compressed    Compression
+-----------------------    ----------  --------  -----------
+17_colour.jpg                  11009      420196   Imported JPEG16.jpg                         13527      420196   5mid.png                        6140      217884   =50
+4mid.png                        6529      210296   =50
+3mid.png                        6007      189700   =50
+2mid.png                        5551      158264   =50
+lintel_15.jpg                  15383      420196   4right.png copy                 6560      217884   =50
+3right.png                      6215      201624   =50
+2right.png                      5537      165852   =50
+1.png                           9233      125488   
+
+Tweened Shapes: 261 bytes
+
+
+Sound name                 Bytes        Format    
+-----------------------    ---------    ----------
+Albertus Medium              1338         -LMTYacehilnstxy
+Arial                         856         <abceklosx

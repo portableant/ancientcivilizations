@@ -1,0 +1,12 @@
+
+
+Get yer image.
+
+Put it in assets/features/
+
+Open zimbabwe.txt
+
+Find the relevant xxxxFile variable ("dareFile", "enclosure12File", etc)
+
+Add your filename in the comma-delimited list.
+(Must be surrounded by [square brackets] and have no spaces, just commas)

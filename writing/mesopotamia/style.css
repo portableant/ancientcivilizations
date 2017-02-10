@@ -1,0 +1,26 @@
+ body {
+	background-color: #b28e58;
+	color: black;
+	background-image : url(../images/bg_cir.gif);
+	scrollbar-track-color : #b28e58;
+	scrollbar-3dlight-color : #303030;
+	scrollbar-arrow-color : Black;
+	scrollbar-base-color : Green;
+	scrollbar-darkshadow-color : #171717;
+	scrollbar-face-color : #b28e58;
+	scrollbar-highlight-color : #A9A9A9;
+	scrollbar-shadow-color : #bbbbbb;
+}
+ :link {
+	color: Teal;
+	background-color : transparent;
+}
+ :visited {
+	color: #004D4D;
+	background-color : transparent;
+}
+ :active {
+	color: Gray;
+	background-color : transparent;
+}
+

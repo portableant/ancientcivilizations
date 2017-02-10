@@ -1,0 +1,108 @@
+Movie Report
+-------------
+FrameFrame #    Frame Bytes    Total Bytes    Page
+------------    -----------    -----------    ---------------
+    1           230            230        textLoading
+    2          8435           8665        Scene 1
+    3        333139         341804          2
+
+Page                       Shape Bytes    Text Bytes
+-----------------------    -----------    ----------
+textLoading                       0             0
+Scene 1                          43          1133
+
+Embedded Objects               2989             0
+
+Page                       Symbol Bytes    Text Bytes
+-----------------------    ------------    ----------
+hotspot_standing                155             0
+button_more                       0            40
+button_return                   163            39
+frame                            41             0
+picture_highlight_text            0          3001
+stripe_animation                  0             0
+stripe                           38             0
+hotspot_weaver_05                 0             0
+hotspot_weaver_06                63             0
+hotspot_weaver_04                57             0
+hotspot_weaver_03                67             0
+hotspot_weaver_02                54             0
+hotspot_weaver_01                52             0
+hotspot_cloths_05                61             0
+hotspot_cloths_04                58             0
+hotspot_cloths_03                62             0
+hotspot_cloths_02                66             0
+hotspot_cloths_01                55             0
+hotspot_vessels_01               61             0
+hotspot_vessels_02               52             0
+hotspot_vessels_03               62             0
+hotspot_vessels_04               62             0
+hotspot_vessels_05               58             0
+hotspot_vessels_06               53             0
+hotspot_vessels_07               57             0
+hotspot_vessels_08               55             0
+hotspot_vessels_09               42             0
+hotspot_vessels_10               69             0
+hotspot_looms_01                 45             0
+hotspot_looms_02                 47             0
+hotspot_looms_03                 55             0
+hotspot_looms_04                 49             0
+hotspot_looms_05                 49             0
+hotspot_looms_06                 53             0
+hotspot_bobbins_01                0             0
+hotspot_bobbins_02                0             0
+hotspot_bobbins_03               64             0
+hotspot_bobbins_04                0             0
+hotspot_bobbins_05                0             0
+hotspot_bobbins_06               68             0
+hotspot_bobbins_07               66             0
+hotspot_posts_03                 63             0
+hotspot_posts_04                 62             0
+hotspot_posts_05                 66             0
+hotspot_posts_06                 64             0
+hotspot_posts_07                 54             0
+hotspot_posts_08                 50             0
+hotspot_posts_02                 62             0
+hotspot_posts_01                 47             0
+hotspot_01                      385             0
+wheelgraphic                      0             0
+hotspot                           0             0
+picture_highlight                 0             0
+frame                             0             0
+smallPic                          0             0
+illustration                      0             0
+Symbol 96                         0             0
+pot_mc                          140           137
+Symbol 94                         0             0
+pot_body                          0             0
+pot_animation_mc                157             0
+arrow_button_mc                   0             0
+arrow_button                    167             0
+wheel                           119             0
+zoomed world                      0             0
+slideoutPicture01                 0             0
+hotspot                           0             0
+slideoutContent                   0             0
+blocker                           0             0
+object                            0             0
+slideoutPanel                     0             0
+flowers                           0             0
+masterClip                       46           137
+preloader_outline                40             0
+preloader_bar                    39             0
+preloader_continue                0             0
+button_continue                 261            96
+preloader_page                    0             0
+
+Bitmap                     Compressed    Compression
+-----------------------    ----------  --------  -----------
+pot_animation_f60.jpg           4015      215264   Imported JPEGpot_animation_f59.jpg           3993      215760   pot_animation_f58.jpg           3955      214020   pot_animation_f57.jpg           3957      214020   pot_animation_f56.jpg           3935      214020   pot_animation_f55.jpg           3954      215760   pot_animation_f54.jpg           3961      215760   pot_animation_f53.jpg           3958      215760   pot_animation_f52.jpg           3933      214020   pot_animation_f51.jpg           3896      215760   pot_animation_f50.jpg           3911      215760   pot_animation_f49.jpg           3893      215760   pot_animation_f48.jpg           3861      215760   pot_animation_f47.jpg           3856      218736   pot_animation_f46.jpg           3817      215264   pot_animation_f45.jpg           3793      215760   pot_animation_f44.jpg           3843      215264   pot_animation_f43.jpg           3815      219240   pot_animation_f42.jpg           3839      215760   pot_animation_f41.jpg           3887      215760   pot_animation_f40.jpg           3833      215760   pot_animation_f39.jpg           3819      215760   pot_animation_f38.jpg           3778      215760   pot_animation_f37.jpg           3752      215760   pot_animation_f36.jpg           3793      215760   pot_animation_f35.jpg           3812      215760   pot_animation_f34.jpg           3802      214020   pot_animation_f33.jpg           3779      219240   pot_animation_f32.jpg           3856      215760   pot_animation_f31.jpg           3870      215760   pot_animation_f30.jpg           3856      218736   pot_animation_f29.jpg           3902      215760   pot_animation_f28.jpg           3955      214020   pot_animation_f27.jpg           3871      215264   pot_animation_f26.jpg           3928      215760   pot_animation_f25.jpg           3944      215264   pot_animation_f24.jpg           3947      215264   pot_animation_f23.jpg           3997      215264   pot_animation_f22.jpg           3973      215760   pot_animation_f21.jpg           4002      215760   pot_animation_f20.jpg           3981      215760   pot_animation_f19.jpg           3964      215760   pot_animation_f18.jpg           3953      215264   pot_animation_f17.jpg           3959      215264   pot_animation_f16.jpg           4030      215760   pot_animation_f15.jpg           4000      215264   pot_animation_f14.jpg           3966      215760   pot_animation_f13.jpg           3990      215760   pot_animation_f12.jpg           4041      214768   pot_animation_f11.jpg           4096      215760   pot_animation_f10.jpg           4053      215760   pot_animation_f09.jpg           4098      215760   pot_animation_f08.jpg           4037      215264   pot_animation_f07.jpg           4033      215760   pot_animation_f06.jpg           4002      215760   pot_animation_f05.jpg           3980      215760   pot_animation_f04.jpg           4006      215264   pot_animation_f03.jpg           4013      215264   pot_animation_f02.jpg           3992      215760   pot_animation_f01.jpg           4027      215760   Bitmap 81                       6651      176640   =80
+potTop.jpg                     67246     3240000   =45
+pot_cutout.jpg                  3529      176472   =50
+
+
+Sound name                 Bytes        Format    
+-----------------------    ---------    ----------
+Albertus Medium              1047         'TWaehkoprsv
+Arial                         835         <>abcekmor
+Arial Bold                    562        ceinotu

@@ -1,0 +1,48 @@
+text_top1=The top of the casket is decorated with one scene.  This carved panel shows the archer &AElig;gili defending his house against armed raiders.
+&text_top2=Armed raiders attacking ?gili’s house
+&text_top3=&AElig;gili’s house
+&text_top4=If you look carefully you can see curious animals used to fill in spaces in ?gili’s house.
+&text_top5=&AElig;gili, the archer, defending his house
+&text_top6=<b>Runes</b><br><br>The runes on this part of the box give us the name of the figure defending his house, &AElig;gili.  The name is given in Old English.
+&text_front1=The front of the casket has two scenes on it.  The Adoration of the Magi, or ‘wise men’, is on the right and the Germanic legend of Weland the Smith is on the left.
+Click on the panel to explore.
+&text_front2=The Adoration of Christ<br><br>This scene shows the Magi, or wise men, who came to worship Christ at his birth.
+&text_front3=The legend of Weland the Smith<br><br>This scene refers to Weland the Smith, a Germanic legend.
+&text_front4=Runes<br><br>The runes on this part of the box form the first part of a riddle. They read:<br>
+The flood lifted up the fish on to the steep shore
+&text_front5=Runes<br><br>The runes on this part of the box form the second part of a riddle. They read:<br>The enrages [angry] creature was in distress where he swam on to the shingle.
+&text_front6=Runes<br><br>The runes on this part of the box provide the answer to the riddle. They translate as:<br>Whale bone.<br><br>This riddle refers to the material from which the box was made, whalebone.
+&text_back1=The back of the casket shows the capture of Jerusalem by the Emperor Titus in A.D. 70.  The script is written mostly using the <font color="#FFCC66"><a href="javascript:openGlos('../../glossary/f/futhorc.html','futh')"><u>futhorc</u></a></font>, but in two languages, Old English and Latin. There are also some words in the Roman script.
+&text_back2=Click on the panel to explore.
+&text_back3=The Temple<br><br>This scene shows the Jewish Temple in Jerusalem.  The Temple was attacked and destroyed in AD 70 by the Emperor Vespasian’s son Titus.
+&text_back4=The Roman forces<br><br>This scene shows the Roman forces attacking the Temple in Jerusalem and someone, perhaps Emperor Titus, seated on a throne, or seat of judgement.
+&text_back5=The <font color="#FFCC66"><a href="javascript:openGlos('../../glossary/f/fugitives.html','fugi')"><u>fugitives</u></a></font><br><br>Here the fugitives escape from the attacking Roman forces.
+&text_back6=Runes<br><br>The runes on this part of the box read:<br>
+Here Titus and the Jews are fighting
+&text_back7=Roman script and runes<br><br>The Roman script and runes on this part of the box read:<br>Here the inhabitants of Jerusalem are fleeing
+&text_back8=Runes<br><br>The runes here read:<br>Judgement
+&text_back9=Runes<br><br>The runes here read:<br>Hostage
+&text_right1=The right side of the casket is very mysterious.  It seems to show a scene from a legend, but the story it relates to has been lost and it will probably never be understood fully. 
+&text_left1=The left side of the casket refers to the story of Romulus and Remus, the traditional founders of Rome.
+&text_left2=Click on the panel to explore.
+&text_left3=Romulus<br><br>Romulus was one of the twin brothers who traditionally founded Rome.  He later killed his brother and Rome was named after him.
+&text_left4=Remus<br><br>Remus was one of the twin brothers who traditionally founded Rome.  He was later killed by his brother and Romulus became the first king of Rome.
+&text_left5=The she-wolf<br><br>According to tradition Romulus and Remus were raised by a she-wolf after they had been <font color="#FFCC66"><a href="javascript:openGlos('../../glossary/e/exiled.html','exil')"><u>exiled</u></a></font> from their home town of Alba Longa.
+&text_left6=Runes<br><br>The runes here read:<br>Romulus and Remus, two brothers
+&text_left7=Runes<br><br>The runes here read:<br>A she-wolf fed them in the city of Rome
+&text_left8=Runes<br><br>The runes here read:<br>Far from their <font color="#FFCC66"><a href="javascript:openGlos('../../glossary/n/native_land.html','nati')"><u>native land</u></a></font>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

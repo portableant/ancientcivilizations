@@ -1,0 +1,49 @@
+introduction=The Phoenicians traded throughout the Mediterranean region and settled in new areas like Greece and north Africa. In addition, many Greek traders spent a lot of time in the Phoenician cities of Tyre, Byblos and Sidon.  As a result of this contact the Greeks adopted the new Phoenician alphabet and added some signs of their own.<br><br>You are a young <font color="#660000"><a href="javascript:openGlos('../../glossary/e/epigrapher.html','epig')"><u>epigrapher</u></a></font> studying the alphabet. You have a list of some letters in the Phoenician alphabet and you know that the Greeks adopted these letters to use in their own writing.  By looking at the shape of the letters try to match the Greek letters to the original Phoenician letters.
+
+&instructions=Drag the Greek letters into the boxes next to the Phoenician letters.  When you think you have matched them all click the submit button to see if you are right.
+
+&allright=Well done! You have successfully linked the Greek letters to the correct Phoenician letters.  Although the shape of some of the letters changed over time it is still possible to see their similarities.
+
+&result_partOne=You have done well to link some of the letters from the Greek alphabet to the Phoenician alphabet.  You have matched&result_partTwo=correctly.  Look closely at the shape of some of the letters and try again.
+
+&result_null=Unfortunately you have failed to link any of the of the letters from the Greek alphabet to the Phoenician alphabet.  Look closely at the shape of some of the letters and try again.
+
+&conclusion=The Phoenician alphabet had a great <font color="#660000"><a href="javascript:openGlos('../../glossary/i/influence.html','infl')"><u>influence</u></a></font> on the writing of other languages too.  The Aramaic, Hebrew, Ammonite, Moabite and Edomite languages all have scripts related to Phoenician.  Punic and Palmyrene, scripts used down to the third century BC, were directly influenced by the Phoenician script.
+
+&conclusion_instructions=Roll over one of the Phoenician letters to learn more about how it relates to the alphabet we use today.
+
+&aleph=This is the Phoenician letter 'Aleph', which corresponds to the Greek letter 'Alpha'. This letter was handed down and is related to the letter 'a' which is used today.
+
+&bet=This is the Phoenician letter 'Bet ', which corresponds to the Greek letter 'Beta'. This letter was handed down and is related to the letter 'b' which is used today.
+
+&gimel=This is the Phoenician letter 'Gimel', which corresponds to the Greek letter 'Gamma'. This letter was handed down and is related to the letter 'g' which is used today.
+
+&dalet=This is the Phoenician letter 'Dalet', which corresponds to the Greek letter 'Delta'. This letter was handed down and is related to the letter 'd' which is used today.
+
+&he=This is the Phoenician letter 'He', which corresponds to the Greek letter 'Epsilon'. This letter was handed down and is related to the letter 'e' which is used today.
+
+&zayn=This is the Phoenician letter 'Zayn', which corresponds to the Greek letter 'Zeta'. This letter was handed down and is related to the letter 'z' which is used today.
+
+&het=This is the Phoenician letter ‘Het ’, which corresponds to the Greek letter ‘(H)eta’ (pronounced with a silent ‘h’). This letter was handed down and is related to the letter ‘h’ which is used today.
+
+&yod=This is the Phoenician letter 'Yod', which corresponds to the Greek letter 'Iota'. This letter was handed down and is related to the letter 'i' which is used today.
+
+&kapp=This is the Phoenician letter 'Kap', which corresponds to the Greek letter 'Kappa'. This letter was handed down and is related to the letter 'k' which is used today.
+
+&lamed=This is the Phoenician letter 'Lamed', which corresponds to the Greek letter 'Lambda'. This letter was handed down and is related to the letter 'l' which is used today.
+
+&mem=This is the Phoenician letter 'Mem', which corresponds to the Greek letter 'Mu'. This letter was handed down and is related to the letter 'm' which is used today.
+
+&nun=This is the Phoenician letter 'Nun', which corresponds to the Greek letter 'Nu'. This letter was handed down and is related to the letter 'n' which is used today.
+
+&ayin=This is the Phoenician letter 'Ayin', which corresponds to the Greek letter 'Omicron'. This letter was handed down and is related to the letter 'o' which is used today.
+
+&pe=This is the Phoenician letter 'Pe', which corresponds to the Greek letter 'Pi'. This letter was handed down and is related to the letter 'p' which is used today.
+
+&sade=This is the Phoenician letter 'Sade', which corresponds to the Greek letter 'San'. This letter was handed down and is related to the letter 's', but is pronounced 'ts' today.
+
+&resh=This is the Phoenician letter 'Resh', which corresponds to the Greek letter 'Rho'. This letter was handed down and is related to the letter 'r ' which is used today.
+
+&sin=This is the Phoenician letter 'Sin', which corresponds to the Greek letter 'Sigma'. This letter was handed down and is related to the letter 's' which is used today.
+
+&tau_phon=This is the Phoenician letter 'Tau', which corresponds to the Greek letter 'Tau'. This letter was handed down and is related to the letter 't' which is used today.

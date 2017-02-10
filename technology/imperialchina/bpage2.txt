@@ -1,0 +1,2 @@
+tex=The first complete dated and printed book is the ‘Diamond Sutra’.  It was printed in the year AD 868 and was found in Dunhuang, among a great cache of documents found in a sealed cave. It contains the complete text of a Buddhist Sutra translated into Chinese. The book is in scroll form, and is 17 ½ feet long. Today it is kept in the British Library in London.<br><br>Early books all came in scroll form. However by the end of the Tang dynasty flat books with folded pages were beginning to replace the scroll. These flat books were much easier to store.
+

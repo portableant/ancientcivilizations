@@ -1,0 +1,220 @@
+Movie Report
+-------------
+FrameFrame #    Frame Bytes    Total Bytes    Page
+------------    -----------    -----------    ---------------
+    1         18756          18756        intro
+    2        178326         197082        mainmovie
+    3            60         197142        Scene 6
+
+Page                       Shape Bytes    Text Bytes
+-----------------------    -----------    ----------
+intro                             0             0
+mainmovie                         0            56
+Scene 6                        7903             0
+
+Embedded Objects                120             0
+
+Page                       Symbol Bytes    Text Bytes
+-----------------------    ------------    ----------
+object_11                         0             0
+object_10                         0             0
+object_9                          0             0
+object_8                          0             0
+object_7                          0             0
+object_6                          0             0
+object_5                          0             0
+object_4                          0             0
+object_3                          0             0
+object_2                          0             0
+object_1                          0             0
+big_bronzes                       0             0
+text_cover                       49             0
+dummy                             0             0
+zoom_buttons                      0            37
+block                            45             0
+textCover                        45             0
+next_button                       0             0
+next                             44            78
+invisible_button                 41             0
+object_19_graphic                 0             0
+object_19_button                  0             0
+object_19                         0             0
+object_18_graphic                 0             0
+object_18_button                  0             0
+object_18                         0             0
+object-17_graphic                 0             0
+object_17_button                  0             0
+object-17                         0             0
+object_16_graphic                 0             0
+object_16_button                  0             0
+object16                          0             0
+object_15_graphic                 0             0
+object_15_button                  0             0
+object_15                         0             0
+object_13_graphic                 0             0
+object_13_button                  0             0
+object_13                         0             0
+object_12_graphic                 0             0
+object_12_button                  0             0
+object_12                         0             0
+object_11_graphic                 0             0
+object_11_button                  0             0
+object_11                         0             0
+object_10_graphic                 0             0
+object_10_button                  0             0
+object_10                         0             0
+object_8_graphic                  0             0
+object_8_button                   0             0
+object_8                          0             0
+Object_7_graphic                  0             0
+object_7_button                   0             0
+object-7                          0             0
+alpha_control                     0             0
+object_6_graphic                  0             0
+object_6_button                   0             0
+object_6                          0             0
+object_5_graphic                  0             0
+object_5_button                   0             0
+object_5                          0             0
+object_4_graphic                  0             0
+object_4_button                   0             0
+object_4                          0             0
+object_3_graphic                  0             0
+object_3_button                   0             0
+object_3                          0             0
+obj_1_button_graphic              0             0
+object_1_button                   0             0
+object_1                          0             0
+frame                             0             0
+jewelry                           0             0
+treasurer                         0             0
+object_18                         0             0
+object_12                         0             0
+kjsandkjnsa                       0             0
+obj_-18                           0             0
+button_12                         0             0
+object_14                         0             0
+object_2                          0             0
+object_14_graphic                 0             0
+object_14_button                  0             0
+object_2_button                   0             0
+fade1                             0             0
+mask_shape                       47             0
+Symbol 148                        0             0
+white_bckgrd                     48             0
+minus_bckgrd                     35             0
+plus\_bckgrd                      0             0
+specialbutton                     0             0
+intro                             0             0
+introtext                         0             0
+text                              0             0
+Tween 7                           0             0
+Tween 6                           0             0
+Tween 5                           0             0
+Tween 4                           0             0
+linedrawing                       0             0
+plate                             0             0
+pots                              0             0
+ob_1_button                       0             0
+ob_2_button                       0             0
+ob_3_button                       0             0
+ob_4_button                       0             0
+ob_5_button                       0             0
+ob_7_button                       0             0
+ob_8_button                       0             0
+ob_9_button                       0             0
+ob_11_button                      0             0
+ob_10_button                      0             0
+ob_12_button                      0             0
+ob_13_button                      0             0
+ob_14_button copy                 0             0
+ob_15                             0             0
+ob_16_button                      0             0
+ob_19_button copy                 0             0
+ob_5_button-new                   0             0
+ob_17_button                      0             0
+ob_18_button                      0             0
+ob_19_button                      0             0
+copticbowl                        0             0
+hangbowls                         0             0
+bowls                             0             0
+spoons                            0             0
+whetstone                         0             0
+buckle                            0             0
+purselid                          0             0
+sword                             0             0
+shield                            0             0
+helmet                            0             0
+Tween 3                           0             0
+Tween 2                           0             0
+Tween 1                           0             0
+draw_Image                        0             0
+maskClip                          0             0
+underneath                        0             0
+cover                            47             0
+close                             0             0
+inv_button_movie                  0             0
+inv_button_movie copy             0             0
+innerImage                        0             0
+image                             0             0
+carousel                         42             0
+carousel_graphic                160            47
+mask_carusel                     45             0
+controller                        0             0
+inv_button                        0             0
+zoomin                            0            31
+zoomout                          36            31
+text overlay                      0             0
+bck_trans_try                    34             0
+TextPager                         0             0
+TextPager_backBtn                 0           117
+TextPager_moreBtn                 0           117
+back ground                       0             0
+fill_preloader                    0             0
+mask                             44             0
+prevButton                        0             0
+Symbol 54                        43            95
+Symbol 358                        0             0
+b_BckGrd                          0             0
+bands                            62             0
+Preloader                        38            48
+bckgrd                           44             0
+fill                             37             0
+hand _ fist                       0             0
+hand _ open                       0             0
+hand cursor                       0             0
+port2but                         88             0
+portuguese2                     100             0
+port1but                         82             0
+portuguese1                      94             0
+shieldbut                       127             0
+shield                          132             0
+pagebut                         412             0
+page                            403             0
+necklacebut                     187             0
+necklace                        181             0
+warriorsbut                     433             0
+warriors                        426             0
+leopards                         83             0
+leopard                         166             0
+wallsbut                        971             0
+walls                           974             0
+midroofbut                      210             0
+mid roof                        157             0
+snakebut                         94             0
+snake                           111             0
+backbut                        1877             0
+back                           1020             0
+
+Bitmap                     Compressed    Compression
+-----------------------    ----------  --------  -----------
+brass_plague_latest.jpg       145750     5648000   Imported JPEGfist.gif                          74         256   
+hand.gif                          89         256   
+
+
+Sound name                 Bytes        Format    
+-----------------------    ---------    ----------
+Times New Roman                30        
+Arial                          20        
+Arial Bold                   1088        +-.aeimoprstuvz
+_sans                          20        

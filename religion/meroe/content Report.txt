@@ -1,0 +1,95 @@
+Movie Report
+-------------
+FrameFrame #    Frame Bytes    Total Bytes    Page
+------------    -----------    -----------    ---------------
+    1          7249           7249        Scene 1
+    2            65           7314          2
+    3        151850         159164          3
+
+Page                       Shape Bytes    Text Bytes
+-----------------------    -----------    ----------
+Scene 1                           0           203
+
+Embedded Objects                209             0
+
+Page                       Symbol Bytes    Text Bytes
+-----------------------    ------------    ----------
+obj_sphinx                        0             0
+obj_horusbronze                   0             0
+obj_sceptre                       0             0
+obj_lion                          0             0
+obj_banquet                       0             0
+obj_statue                        0             0
+obj_amulet                        0             0
+sopbackground                    47             0
+content                         175          4694
+hotspot                          35             0
+slideoutPanel                    52            44
+status_bar                        0             0
+status_frame                      0             0
+hotspot_15                      155             0
+hotspot_15_mc                   973             0
+hotspot_14                      344             0
+hotspot_14_mc                   692             0
+hotspot_13                        0             0
+hotspot_13_mc                   294             0
+hotspot_12                        0             0
+hotspot_12_mc                   559             0
+hotspot_11                      588             0
+hotspot_11_mc                   837             0
+hotspot_10                      225             0
+hotspot_10_mc                   303             0
+hotspot_09                      605             0
+hotspot_09_mc                  1207             0
+hotspot_08                        0             0
+hotspot_08_mc                     0             0
+hotspot_07                        0             0
+hotspot_07_mc                   340             0
+hotspot_06                        0             0
+hotspot_06_mc                   456             0
+hotspot_05                      143             0
+hotspot_05_mc                   284             0
+hotspot_04                      579             0
+hotspot_04_mc                  1283             0
+hotspot_03                       85             0
+hotspot_03_mc                   148             0
+hotspot_02                      187             0
+hotspot_02_mc                   363             0
+hotspot_01                        0             0
+hotspot_01_mc                   198             0
+Symbol 9                          0             0
+Symbol 8                          0             0
+Symbol 7                          0             0
+Symbol 6                          0             0
+fadertrack                        0             0
+fader                             0             0
+bigPicture_photo                  0             0
+bigPicture_line               37432             0
+masterClip                        0           326
+tile                              0             0
+button                            0             0
+preloader_outline                40             0
+preloader_bar                     0             0
+preloaderPage                     0            57
+preloader_continue                0             0
+button_continue                 261            96
+SerialPreloader - deliberately disabled        0             0
+serialPreloader_deadPreview       43             0
+serialPreloader_preloadbar       39             0
+serialPreloader_preloadbar_inner       39             0
+
+Bitmap                     Compressed    Compression
+-----------------------    ----------  --------  -----------
+fader.png                       3177       19600   JPEG Quality=80
+fadertrack.png                  2401       66400   
+wall.png                       65934     1537536   =40
+background.jpg                 14657     1305600   =25
+
+
+Sound name                 Bytes        Format    
+-----------------------    ---------    ----------
+Albertus                     2878         '<BCFGIMOQSTabcdefghiklnoprstuvx
+Albertus Medium              1828         CEIOPTcefghilnopstuy
+Arial                          20        
+Arial Bold                    562        ceinotu
+_sans                          20        

@@ -1,0 +1,45 @@
+/* ------------------------------------------------------------------- */
+/* stylesheet by richard das (richard@mnemonicgroove.com) 26 June 2003 */
+/* ------------------------------------------------------------------- */
+
+/* VINDOLANDA STYLESHEET */
+
+/* page styles */
+
+body {
+  background-color:#fff;
+}
+
+body>#{
+  background-image: url(images/map_overlay.jpg);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center center;
+
+  /* text color */
+  color: #000;
+}
+
+
+.titleText {
+  color:#000;
+}
+
+.mainText {
+  color:#000;
+}
+
+
+/* button style for 4 browsers */
+/* --------------------------- */
+.buttonStyle {
+	border: 1px solid #000;
+	background-color: #fff;
+}
+
+.buttonStyle>#{
+	border: 1px solid #ccc;
+	background-color: #000;
+}
+
+/* end of styleSheet */

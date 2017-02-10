@@ -1,0 +1,50 @@
+  body {
+	background-image: url(images/bg_red.gif);
+	background-color: #941616;
+	color: black;
+}
+ :link {
+	color: #9FCFD9;
+	background-color : transparent;
+}
+ :visited {
+	color: #67B3C2;
+	background-color : transparent;
+}
+ :active {
+	color: white;
+	background-color : transparent;
+}
+table.tmain {
+	width : 300px;
+}
+
+td {
+	font-family: helvetica,arial,sans-serif;
+	vertical-align : top;
+}
+td.mainpanel {
+	font-family: helvetica,arial,sans-serif;
+	color : #E6E3D0;
+}
+div.caption {
+	font-size : 75%;
+	text-align : center;
+	color : #cccccc;
+}
+div.caption_l {
+	font-size : 75%;
+	text-align : left;
+	color : #cccccc;
+}
+div.im_l {
+	font-size : 75%;
+	text-align : center;
+	color : #cccccc;
+	float : left;
+}
+div.im_r {
+	font-size : 75%;
+	text-align : center;
+	color : #cccccc;
+}

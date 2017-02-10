@@ -1,0 +1,40 @@
+&intro=The lintels you are about to explore were placed above three doorways which led into a temple structure at Yaxchilan, so that anyone entering the building would have walked beneath them. We cannot be certain what this particular temple looked like; therefore our model is based on the standard layout of most of the main temples in Yaxchilan.<br><br>These lintels were <font color="#FFCC66"><u><a href="javascript:openGlos('../../glossary/c/commissioned.html','glos')">commissioned</a></u></font> by Lord Bird Jaguar, who used them to emphasize that he was the rightful heir to the throne. They record him taking a captive and also the birth of his son, both important acts before he could become king. One lintel also shows Bird Jaguar's connection with an important <font color="#FFCC66"><u><a href="javascript:openGlos('../../glossary/a/ancestor.html','glos')">ancestor</a></u></font>, giving him a legitimate right to be king. <br><br><b>Click on the doorways to explore the lintels placed there.</b>
+&object1=This is a serpent rising up from a bowl of blood-spotted paper scrolls. The serpent represents a spirit from the sacred world of the gods and has been conjured up by a <font color="#FFCC66"><u><a href="javascript:openGlos('../../glossary/b/blood_letting.html','glos')">blood-letting</a></u></font> ritual.
+&object2=This bowl contains rolls of paper spotted with blood. The letting of blood is part of an important ritual carried out on special occasions such as the start of a military campaign.
+&object3=The person emerging from the mouth of the serpent is an ancestor who has materialised during the ritual of <font color="#FFCC66"><u><a href="javascript:openGlos('../../glossary/b/blood_letting.html','glos')">blood-letting</a></u></font>.
+&object4=This is one of Lord Bird Jaguar's wives. She is performing a ritual involving <font color="#FFCC66"><u><a href="javascript:openGlos('../../glossary/b/blood_letting.html','glos')">blood-letting</a></u></font> and has contacted an <font color="#FFCC66"><u><a href="javascript:openGlos('../../glossary/a/ancestor_spirit.html','glos')">ancestor spirit</a></u></font>, who emerges from the serpent.
+&object5=This woven reed basket is a <font color="#FFCC66"><u><a href="javascript:openGlos('../../glossary/b/blood_letting.html','glos')">blood-letting</a></u></font> bowl. It contains strips of cloth which are spotted with blood.
+&object6=The lady is wearing a necklace with a large pendant.
+&object7=The lady's hair is tied back with bark paper cloth that is spotted with blood.
+&object8=Around her neck the lady wears a collar which is characteristic of the ritual.
+&object9=The finely-woven, patterned, loose blouse that the lady wears is called a 'huipil'.
+&object10=These are the Maya hieroglyphs which provide details relating to the scene, such as the action, date, name of the ruler and the place.
+&object11=These are the Maya hieroglyphs which provide details relating to the scene, such as the action, date, name of the ruler and the place.
+&object12=These are the Maya hieroglyphs which provide details relating to the scene, such as the action, date, name of the ruler and the place.
+&object13=This is the ruler of Yaxchilan, Lord Bird Jaguar, who has taken a captive and is taking part in a <font color="#FFCC66"><u><a href="javascript:openGlos('../../glossary/b/blood_letting.html','glos')">blood-letting</a></u></font> ritual.
+&object14=The headdress worn by Lord Bird Jaguar is made of feathers. The long feathers represent the brilliant green feathers of the sacred quetzal bird and were highly valued by the Maya.
+&object15=Lord Bird Jaguar is wearing 'cuffs' made of jade around his wrists. He also wears them around his knees.
+&object16=Lord Bird Jaguar holds a spear.
+&object17=This man is a <font color="#FFCC66"><u><a href="javascript:openGlos('../../glossary/n/nobleman.html','glos')">nobleman</a></u></font> from a small kingdom called Wak'ab, who has been captured by the Maya. He has to give blood in the ritual.
+&object18=The captive <font color="#FFCC66"><u><a href="javascript:openGlos('../../glossary/n/nobleman.html','glos')">nobleman</a></u></font> holds a broken <font color="#FFCC66"><u><a href="javascript:openGlos('../../glossary/p/parasol.html','glos')">parasol</a></u></font>, which was a symbol of a defeated warrior.
+&object19=On the captive's cheek and nose are little beads of blood, suggesting that he has already given blood in the ritual.
+&object20=The captive man is shown biting his fingers to suggest his fear and <font color="#FFCC66"><u><a href="javascript:openGlos('../../glossary/s/submission.html','glos')">submission</a></u></font> to the ruler of Yaxchilan.
+&object21=Lord Bird Jaguar's ear is pierced and inserted with a large piece of jewellery called an ear plug.
+&object22=These are the Maya hieroglyphs which provide details relating to the scene, such as the date, name of the ruler and the place.
+&object23=These are the Maya hieroglyphs which provide details relating to the scene, such as the date, name of the ruler and the place.
+&object24=These are the Maya hieroglyphs which provide details relating to the scene, such as the date, name of the ruler and the place.
+&object25=This is Lady Balam-Ix, a wife of Lord Bird Jaguar. She is taking part in a <font color="#FFCC66"><u><a href="javascript:openGlos('../../glossary/b/blood_letting.html','glos')">blood-letting</a></u></font> ritual.
+&object26=Lady Balam-Ix is wearing a headdress decorated with tassels and feathers.
+&object27=Lord Bird Jaguar's wife is pulling a rope through her tongue to cause bleeding as part of the ritual.
+&object28=This bowl contains rolls of paper spotted with blood from the ritual.
+&object29=This is Lord Bird Jaguar who is taking part in the <font color="#FFCC66"><u><a href="javascript:openGlos('../../glossary/b/blood_letting.html','glos')">blood-letting</a></u></font> ritual. He is holding a bone <font color="#FFCC66"><u><a href="javascript:openGlos('../../glossary/a/awl.html','glos')">awl</a></u></font> which is used to pierce the body and release drops of blood.
+&object30=Bird Jaguar is wearing jade 'cuffs' around his ankles. He also wears them below his knees and around his wrists.
+&object31=This is a shield which is mounted on to the back of a wide belt.
+&object32=Bird Jaguar is wearing a cloth kilt and a wide belt.
+&object33=Around Bird Jaguar's shoulders is a cape of feathers.
+&object34=Through his ear Bird Jaguar is wearing an ornate ear plug. He also has a nose piece.
+&object35=A bar pectoral hangs from Bird Jaguar's neck.
+&object36=Bird Jaguar is wearing a headdress in the form of a skull and skeletal serpent, which also suggests he is about to let blood.
+&object37=These are Maya hieroglyphs. These refer to the birth of Bird Jaguar's son, Shield Jaguar II.
+&object38=These are Maya hieroglyphs. These refer to Lady Balam-IX, a wife of Bird Jaguar.
+&object39=These are Maya hieroglyphs. These refer to the birth of Bird Jaguar's son, Shield Jaguar II.

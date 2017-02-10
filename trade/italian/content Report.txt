@@ -1,0 +1,75 @@
+Movie Report
+-------------
+FrameFrame #    Frame Bytes    Total Bytes    Page
+------------    -----------    -----------    ---------------
+    1           232            232        textLoader
+    2         16684          16916        preloader
+    3        135291         152207        main
+    4         25724         177931          2
+
+Page                       Shape Bytes    Text Bytes
+-----------------------    -----------    ----------
+textLoader                        0             0
+preloader                         0             0
+main                             42           116
+
+Embedded Objects                238             0
+
+Page                       Symbol Bytes    Text Bytes
+-----------------------    ------------    ----------
+arrow_land                        0             0
+arrow_new                         0             0
+Symbol 65                         0             0
+panle_new                        43             0
+panel_first                       0             0
+panel                            40             0
+frame                           102             0
+canvas                            0             0
+Symbol 54                         0             0
+arrow                            92             0
+button_txtContinue                0           162
+button_txtReturn                 39           204
+contentPanel_text                 0           118
+smallMap_frame                    0             0
+contentFrame                     40             0
+contentPanel                      0             0
+windRose_flower                 393             0
+worldmap                        311           285
+hotspot                           0             0
+preloader_page                    0           203
+windRose_quarter               1006             0
+camel                         12723             0
+icon_camel                        0             0
+titleBar                          0           117
+button_play                       0             0
+windRose                        241             0
+smallMap_dot                     54             0
+mainMap_sea                       0             0
+mainMap_land                      0             0
+icon_ship                         0             0
+icon_boat_graphic             14954             0
+smallMap                         40             0
+preloader_outline                 0             0
+preloader_bar                     0             0
+preloader_continue                0             0
+button_continue                 261            96
+Preloader                        38            48
+bckgrd                           44             0
+fill                             37             0
+mask                             44             0
+
+Bitmap                     Compressed    Compression
+-----------------------    ----------  --------  -----------
+smallMap_frame_bitmap           5312      193600   JPEG Quality=80
+panel.jpg                       2292      110968   title_banner.png               10793      108336   =80
+bigMap.jpg                     85712    22678336   preloader_image.jpg            11523      224000   
+
+Sound name                 Bytes        Format    
+-----------------------    ---------    ----------
+Bookman Old Style Bold Italic   1290         .Caceilnortu
+Bookman Old Style Bold       1525         STVacdehinprt
+Albertus                     1992         ACGHILVabcdefilnoprstux
+_sans                          20        
+Arial Bold                    562        ceinotu
+Albertus Medium              1207         STVacdehinprt
+Arial                          20        

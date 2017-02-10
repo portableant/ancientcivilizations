@@ -1,0 +1,11 @@
+p {  font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: #FFFFFF}
+.buttons {  font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #FFFFFF}
+b {  font-family: Arial, Helvetica, sans-serif; font-size: 13px; font-weight: bold; color: #FFFFFF}
+a:active {  font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: #FFFFFF; text-decoration: underline}
+a:hover {  font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: #999999; text-decoration: underline}
+a:link {  font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: #FFFFFF; text-decoration: underline}
+a:visited {  font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: #999999; text-decoration: underline}
+a.greybuttons:active {  font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #FFFFFF; background-color: #666666}
+a.greybuttons:link {  font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #FFFFFF; background-color: #666666}
+a.greybuttons:hover {  font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #FFFFFF; background-color: #999999}
+a.greybuttons:visited {  font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #FFFFFF; background-color: #666666}

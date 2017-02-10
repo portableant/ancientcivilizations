@@ -1,0 +1,26 @@
+<HTML>
+<BODY>
+<SCRIPT>
+	path = window.location.toString();
+	directories = new Array();
+	currentIndex = 0;	
+	while(currentIndex!=-1){
+		directories.push(currentIndex)
+  		currentIndex = path.indexOf("/",currentIndex);
+		if(currentIndex!=-1)currentIndex++
+	}
+	var lastWordLength = directories[directories.length-1] - (directories[directories.length-2]+1)
+	var lastWord = path.substr((directories[directories.length-2]),lastWordLength)
+	document.write("COUNTRY IS: <FONT COLOR=#ff0000>"+lastWord+"</FONT><BR/>")
+
+	var secondLastWordLength = directories[directories.length-2] - (directories[directories.length-3]+1)
+	var secondLastWord = path.substr((directories[directories.length-3]),secondLastWordLength)
+	document.write("THEME IS: <FONT COLOR=#ff0000> "+secondLastWord+"</FONT><BR/>")
+
+
+
+</SCRIPT>
+
+</BODY>
+
+</HTML>

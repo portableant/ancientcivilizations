@@ -1,0 +1,20 @@
+/* ------------------------------------------------------------------- */
+/* stylesheet by richard das (richard@mnemonicgroove.com) 12 June 2003 */
+/* ------------------------------------------------------------------- */
+
+/* VINDOLANDA STYLESHEET */
+
+/* page styles */
+
+/* body {
+  background-image: url(graphics/background.jpg);
+  background-attachment: fixed;
+} */
+
+/* strange syntax to bypass 4 browsers */
+.imageStyle>#{
+	align:none;
+	border:2px solid #990;
+}
+
+/* end of styleSheet */

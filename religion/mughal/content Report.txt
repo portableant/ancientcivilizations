@@ -1,0 +1,106 @@
+Movie Report
+-------------
+FrameFrame #    Frame Bytes    Total Bytes    Page
+------------    -----------    -----------    ---------------
+    1         52188          52188        Scene 1
+    2          1636          53824          2
+    3          5566          59390          3
+    4          1965          61355          4
+    5            10          61365          5
+    6           170          61535          6
+    7           194          61729          7
+    8           138          61867          8
+    9           202          62069          9
+   10           146          62215          10
+   11           202          62417          11
+   12           146          62563          12
+   13           202          62765          13
+   14           138          62903          14
+   15           191          63094          15
+   16         41699         104793          16
+
+Page                       Shape Bytes    Text Bytes
+-----------------------    -----------    ----------
+Scene 1                           0             0
+
+Embedded Objects                418             0
+
+Page                       Symbol Bytes    Text Bytes
+-----------------------    ------------    ----------
+bands                            55             0
+handle                           44             0
+cabinet01.swf copy                0             0
+Symbol 67                         0             0
+border                            0             0
+ruler_holder                      0             0
+select                           43            80
+attachedButton                    0             0
+inv_button_coin                   0             0
+shadow_base                      84             0
+shadow                            0             0
+ruler232                          0             0
+inside_more                       0             0
+hitarea                           0             0
+draw2                           108             0
+cabinet01.swf                     0             0
+Symbol 47                         0             0
+draw_clip_latest                 49             0
+area                              0             0
+draw_new                          0             0
+ruler_large_clip                  0             0
+ruler_small_clip                  0             0
+ruler_medium_clip                 0             0
+bck_trans_try                    34             0
+Symbol 30                         0             0
+ruler_short                       0             0
+bbb                               0             0
+clear_button                     38             0
+blue                             45             0
+Symbol 20                        44            50
+inv_buttin                        0             0
+bckgrd                           40             0
+swapButton                        0             0
+dummy                             0             0
+textFiled                         0            82
+blackBands                        0             0
+textbckgrd                       45             0
+cab-buttons                       0             0
+blinesd11                        41             0
+cabinetClip                       0             0
+drawClip                          0           133
+Symbol 6                          0             0
+Symbol 2                          0             0
+coinComponent                     0             0
+Preloader                         0            47
+fill_preloader                    0             0
+mask                             44             0
+frameChecker                      0            41
+text overlay                      0             0
+text overlay bg                   0             0
+TextPager                         0             0
+TextPager_moreBtn                 0           248
+TextPager_backBtn                 0           248
+bckgrd_transparent                0             0
+ pieSymbol                        0             0
+baseCircle                       73             0
+rightHalf                         0             0
+rightHalfCircle                  75             0
+square                           39             0
+leftHalf                          0             0
+leftHalfCircle                   75             0
+
+Bitmap                     Compressed    Compression
+-----------------------    ----------  --------  -----------
+ruler_small.jpg                 6090      179040   Imported JPEGrule_long.gif                   5799       15040   
+ruler_medium.jpg                4979      111600   ruler_large.jpg                 6306      105560   ps200535.jpg                   17463     1456560   draw_one_hole                   8510      365200   =80
+arrow_on.gif                     687        1204   
+arrow_off.gif                    703        1204   
+Bitmap 13                      13459      365200   =80
+
+
+Sound name                 Bytes        Format    
+-----------------------    ---------    ----------
+Arial Bold                     20        
+Arial                         910         acdelorstw
+_sans                          20        
+Verdana                        22        

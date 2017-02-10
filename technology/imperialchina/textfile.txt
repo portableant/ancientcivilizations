@@ -1,0 +1,21 @@
+page1=Wood from pear trees was the preferred material for making printing blocks. It has an even and smooth texture.  It can be carved in any direction with few problems of going against the grain.
+
+&page2=The text or picture that was going to be reproduced was carved into the wood in reverse.
+
+&page3=The printing block was then inked with a paintbrush.
+
+&page4=A sheet of paper is applied to the printing block and the back of the sheet was gently brushed so that the ink would take to the paper evenly.
+
+&page5=The text or picture is transferred to the paper in the correct order.
+
+&page6=
+
+&page7=A Chinese character was made on a plate made from clay and glue, and then baked to make it hard.
+
+&page8=The character would be arranged into words or sentences with other characters and placed on an iron plate.
+
+&page9=The plate was heated so the characters became firmly attatched to it.
+
+&page10=Once prints had been made form the block the characters could be removed from the plate (by reheating the plate) and be used again for a different print. 
+
+

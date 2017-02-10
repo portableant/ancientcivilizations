@@ -1,0 +1,26 @@
+intro=This is a representation of the folded, closed codex.
+&foldout=When opened out and unfolded, it is over eleven metres long and has pictograms painted on both sides.
+&zigzag=Each page of a codex is read from right to left.  The pictograms start in the top right hand corner and zig-zag around the vertical lines on the page.<br><br>Click 'continue' to see this explained.
+&pictogram=The pictograms record information in a simple but effective way. Like a modern cartoon, individual pictures tell different parts of a story.<br><br>This book tells the story of the Mixtec ruler, Eight Deer. He was the son of a great warrior, Five Alligator Rain-Sun, who had an important position in the kingdom of Tilantongo and was the ruler of Tututepec.<br><br>Click 'continue' to find out more about the Mixtec ruler Eight Deer.
+&eight=One of Five Alligator's sons was called Eight Deer Jaguar-Claw. He was a warrior like his father and hoped to become a strong king.
+&sacrifices=Eight Deer and his <u><font color="#FFCC66"><a href="javascript:openGlos('../../glossary/c/companion.html','glos')">companions</a></font></u> offered many <u><font color="#FFCC66"><a href="javascript:openGlos('../../glossary/s/sacrifice.html','glos')">sacrifices</a></font></u> to the gods.
+&tilantongo=Eight Deer became the <u><font color="#FFCC66"><a href="javascript:openGlos('../../glossary/h/heir.html','glos')">heir</a></font></u> to the kingdom of Tilantongo.  He took part in the nose-piercing <u><font color="#FFCC66"><a href="javascript:openGlos('../../glossary/c/ceremony.html','xxxx')">ceremony</a></font></u> to show everyone that he would one day become the ruler of Tilantongo.
+&offering=Eight Deer offers a bird to the gods while Four Jaguar, Eight Serpent and One Serpent watch.
+&towns=Eight Deer proved that he was a strong warrior by attacking and conquering many towns. Conquered towns are shown as hills with arrows piercing them. 
+&king=With the death of Two Rain Twenty-Jaguar, the rulership of Tilantongo passed to Eight Deer and his brother Twelve Movement. Eight Deer had at last become a great king.
+&explore=Explore the codex above. Roll over the pictures to learn more about what the codex tells us. You can also drag the codex with your mouse.
+&annotationone=Eight Deer Jaguar-Claw.
+&annotationtwo=This <u><font color="#FFCC66"><a href="javascript:openGlos('../../glossary/g/glyph.html','glos')">glyph</a></font></u> and the dots tell the reader the name of the figure they accompany. In this example the glyph stands for Deer and the dots give the number Eight.
+&annotationthree=A place called Tlaloc Hill.
+&annotationfour=This pictogram represents a priest. He is holding a <u><font color="#FFCC66"><a href="javascript:openGlos('../../glossary/v/venus_staff.html','glos')">Venus staff</a></font></u>, the sign of the creator god Quetzalcoatl.
+&annotationfive=Eight Deer Jaguar-Claw watches his companion Four Jaguar make an offering.
+&annotationsix=The glyph and the dots tell the reader the date of the offering made in the picture. The date given is in the year 7 House, day 13 Alligator.
+&annotationseven=Four Jaguar, Eight Deer's warrior companion makes an offering to the gods.
+&annotationeight=Eight Deer is shown having his nose pierced. A nose <u><font color="#FFCC66"><a href="javascript:openGlos('../../glossary/o/ornament.html','gloss')">ornament</a></font></u> was worn by men to show their importance in Mixtec society.
+&annotationnine=One Serpent is witnessing what is happening on the next page of the book. He is watching Eight Deer offering a bird to the gods.
+&annotationten=Eight Serpent is witnessing what is happening on the next page. He is watching Eight Deer offering a bird to the gods.
+&annotationeleven=Eight Deer, wearing his new nose ornament offers a bird to the gods. He is watched by Four Jaguar, One Serpent and Eight Serpent.
+&annotationtwelve=Four Jaguar watches as Eight Deer offers a bird to the gods.
+&annotationthirteen=These place-glyphs represent towns conquered by Eight Deer. The arrow in the glyph shows that the town has been defeated.
+&annotationfourteen=Eight Deer Jaguar-Claw is shown as the new ruler of Tilantongo.
+&annotationfifteen=Tilantongo is shown as a temple set on a black and white <u><font color="#FFCC66"><a href="javascript:openGlos('../../glossary/f/frieze.html','glos')">frieze</a></font></u>. The Venus staff to the left indicates that the temple is dedicated to the god Quetzalcoatl.

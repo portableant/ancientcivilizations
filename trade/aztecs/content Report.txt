@@ -1,0 +1,303 @@
+Movie Report
+-------------
+FrameFrame #    Frame Bytes    Total Bytes    Page
+------------    -----------    -----------    ---------------
+    1         28007          28007        Scene 1
+    2         61114          89121          2
+    3        316591         405712          3
+
+Page                       Shape Bytes    Text Bytes
+-----------------------    -----------    ----------
+Scene 1                          41            96
+
+Embedded Objects                271             0
+
+Page                       Symbol Bytes    Text Bytes
+-----------------------    ------------    ----------
+initial wipe                     44             0
+intro movie                       0           200
+success box                      89           248
+tims painstakingly redrawn quarter-sheet of paper     1094             0
+next button                       0             0
+instructional overlay             0             0
+basketAdder                       0            46
+shopListCheckBox                 41             0
+screen area pic hotspot          40             0
+big image preloader inner        39             0
+big image preloader              39             0
+blown up image holder            47             0
+whole_movie_overlay               0             0
+generic screen background        54             0
+bottom_bar                       89             0
+close_btn                        61             0
+areahitter_dye                  125             0
+areahitter_meat                  46             0
+areahitter_veg                   70             0
+areahitter_textile               70             0
+areahitter_chocolate            145             0
+areahitter_feathers             356             0
+areahitter_pottery              473             0
+areahitter_gems                 162             0
+areahitter_stone                107             0
+areahitter_metal                 58             0
+preload bar                       0             0
+generic screen                    0           680
+testing navigator button          0             0
+testing navigator                 0             0
+basket_full_warning               0             0
+add_to_basket                     0             0
+obj_squash                        0             0
+obj_mirror                        0             0
+obj_venison                       0             0
+obj_maize                         0             0
+obj_feathers                      0             0
+obj_cloak                         0             0
+obj_bells                      1672             0
+obj_chocolate                     0             0
+obj_dye                           0             0
+obj_chillies                      0             0
+obj_knife                       752             0
+obj_pendant                    1562             0
+obj_turquiose                     0             0
+obj_gold                          0             0
+obj_pot                           0             0
+trashcan                          0             0
+basket selection square          81             0
+shopping list icon                0             0
+list scroll mask                 40             0
+list scroll                       0           122
+list main                         0             0
+exampleItem                       0             0
+exampleItem2                      0             0
+basket main                       0            36
+check basket                      0            96
+person3 shopper                   0             0
+color for shopper_             2787             0
+four sheets of paper              0             0
+paper.                            0             0
+mask sheet                       45             0
+scroll bar with paper tile        0             0
+paper tile                     5996             0
+check shopping list              39           112
+sack of cocoa pods              926             0
+cochineal graphic              1055             0
+sack                           1457             0
+fruit graphic 2                 177             0
+cocoa beans graphic            1154             0
+marketplace movieclip             0             0
+woman shopper                  1780             0
+another shopper_graphic        2672             0
+third layer_shopper graphic        0             0
+shoppers color_third layer     3626             0
+2_shopper in orange_graphic        0             0
+2_shopper in orange_color      4592             0
+man carrying sacks             1345             0
+Shopper_red tunic_graphic         0             0
+Shopper_red tunic_color        1491             0
+5 shopper*5 graphic               0             0
+5 shopper*5_color              2561             0
+4 shopper*4 graphic               0             0
+4 shopper*4_color              2633             0
+3 shopper*3_graphic               0             0
+3 shopper*3_color              2775             0
+shopper crouching_graphic      3996             0
+standing shopper graphic       5473             0
+1_left hand_graphic               0             0
+7_color                        9256             0
+2nd standing shopper graphic        0             0
+2nd standing shopper_color     4863             0
+second layer_shopper*2_graphic        0             0
+9_color                        8740             0
+front layer_shopper graphic        0             0
+front layer_shopper color      5085             0
+front layer_shopper*2 graphic        0             0
+front layer_shopper*2 color     3218             0
+shopper for layer 1               0             0
+color shopper_2                1188             0
+dark brown shopper                0             0
+color_shopper circle cloak      896             0
+shopper for layer three           0             0
+3 shopper_different color         0             0
+3 shopper*3_graphic.           2519             0
+color for shopper_1            1273             0
+basket icon_001                   0            36
+half of basket icon_002         118             0
+wickergraphic                     0             0
+arrow                             0             0
+shopper_001                    2520             0
+shopper_002                    1345             0
+shopper_003                    1718             0
+shopper_004                    2083             0
+shopper_006                    1220             0
+shopper_007                    1279             0
+squash icon                    1120             0
+deer meat icon                 1016             0
+maize icon                     1789             0
+pot cholula icon               1975             0
+gold pendant icon              1629             0
+feathers icon                  1992             0
+cotten cloak icon              2400             0
+obsidian mirror icon            568             0
+turquoise basket icon             0             0
+chocolate icon                    0             0
+cochineal icon                    0             0
+front layer_graphic               0             0
+front_tabel_left_colour           0             0
+gold seller                       0             0
+the gold seller graphic           0             0
+gold sellers graphics             0             0
+weapons_table leg                 0             0
+obsidian table                    0             0
+sack of cocoa pods                0             0
+gold beaded necklace              0             0
+gold lip ornament                 0             0
+gold diadem                       0             0
+golden idol                       0             0
+gold salesman                     0             0
+front_tabel_right_colour          0             0
+collected obsidian graphics        0             0
+obsidian weapon                   0             0
+obsidian mirror                   0             0
+obsidian weapons                  0             0
+obsidian salesman graphic         0             0
+front_table1                      0             0
+front_table2                      0             0
+shopper for layer 1               0             0
+5 shopper*5_color                 0             0
+color shopper_2                   0             0
+front layer_shopper graphic        0             0
+front layer_shopper color         0             0
+front layer_shopper*2 graphic        0             0
+front layer_shopper*2 color        0             0
+cocoa salesman                    0             0
+sack graphic                      0             0
+sacks                             0             0
+man holding cocoa bowl            0             0
+feather seller                    0             0
+feather shields                   0             0
+feathers                          0             0
+tradesman with feathers           0             0
+bowl                            490             0
+bowl 2                            0             0
+bowl 3                            0             0
+flat bowl                       405             0
+lots of bowls stacked up#         0             0
+pot seller                        0             0
+pot seller table                  0             0
+tradesman with pots               0             0
+precious stones graphics          0             0
+precious stones salesman          0             0
+table top graphic                 0             0
+sack                              0             0
+fruit graphic 2                   0             0
+second layer graphic              0             0
+meat man_table top                0             0
+cocoa beans graphic               0             0
+second layer table 1              0             0
+second layer table 2              0             0
+layer2_table3                     0             0
+dark brown shopper                0             0
+7_color                           0             0
+color_shopper circle cloak        0             0
+2_shopper in orange_graphic        0             0
+2_shopper in orange_color         0             0
+shopper for layer three           0             0
+shopper crouching_graphic         0             0
+standing shopper graphic          0             0
+1_left hand_graphic               0             0
+child crouching                   0             0
+Shopper_red tunic_color           0             0
+2nd standing shopper graphic        0             0
+2nd standing shopper_color        0             0
+color for shopper_                0             0
+second layer_shopper*2_graphic        0             0
+9_color                           0             0
+man carrying sacks                0             0
+person3 shopper                   0             0
+4 shopper*4 graphic               0             0
+4 shopper*4_color                 0             0
+5 shopper*5 graphic               0             0
+cochineal salesman.               0             0
+third layer_ right hand tradesmen        0             0
+cochineal graphic                 0             0
+entire third layer                0             0
+fruit man                         0             0
+sack of vegetables                0             0
+fruit graphic 1                   0             0
+corn                              0             0
+GROCER GRAPHIC                    0             0
+Materials Saleswoman              0             0
+rugs graphic                      0             0
+rugs 2                            0             0
+materials saleswoman graphic        0             0
+meat man assembled graphics        0             0
+deerskin rack                     0             0
+meat man's deer rack              0             0
+deerskin                          0             0
+meat man_turkey                1089             0
+meat man graphic                  0             0
+the meat man                      0             0
+meat man_fish                   794             0
+meat man_dead deer                0             0
+third layer table 1               0             0
+third layer table 2               0             0
+third layer table 3               0             0
+Symbol 103                        0             0
+woman shopper                     0             0
+another shopper_graphic           0             0
+third layer_shopper graphic        0             0
+shoppers color_third layer        0             0
+3 shopper_different color         0             0
+color for shopper_1               0             0
+3 shopper*3_graphic.              0             0
+Shopper_red tunic_graphic         0             0
+3 shopper*3_graphic               0             0
+3 shopper*3_color                 0             0
+background graphic                0             0
+buildings graphic                 0             0
+ground                            0             0
+back layer                        0             0
+man carrying sack                 0             0
+man shopping                      0             0
+second man carrying a sack        0             0
+back layer_all tradesmen          0             0
+folks shopping                    0             0
+shopper                           0             0
+veg helpers                       0             0
+basket movie                      0             0
+basket graphic_001               58             0
+vector wicker                     0             0
+assembled wicker vector           0             0
+vector basket graphic           591             0
+assembled rim graphics            0             0
+rim drawing                     627             0
+aztec intorduction movie_001        0             0
+1st text_                         0             0
+next                              0            84
+chillies icon                  1082             0
+text page 1                       0           137
+conquist_002                   3578             0
+assembled pots movie_page 2        0             0
+assembled meats for page 2        0             0
+shopping list shrinking           0           162
+wicker basket                     0             0
+text page 3_b                     0           180
+text page 3                       0           187
+four sheets                       0             0
+shopping list                  2748             0
+
+Bitmap                     Compressed    Compression
+-----------------------    ----------  --------  -----------
+CHLOE-MARKET-2.jpg             24811      379960   Imported JPEGtrashcan.gif                      78         224   
+market_fg.gif                  28856     1305600   
+market_mg.gif                  56882     1305600   
+market_bg.gif                  91166     1305600   
+basket icon.jpg                 4002       40200   =80
+
+
+Sound name                 Bytes        Format    
+-----------------------    ---------    ----------
+Albertus                      247        FLU
+_sans Italic                   20        
+Arial                        2146         .AEOTabcdefghiklmnoprstuvwxyz
+_sans                          20        

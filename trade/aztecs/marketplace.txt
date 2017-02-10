@@ -1,0 +1,52 @@
+&intro1=From the descriptions of Spanish conquerors, we can picture what the market might have looked like. 
+&intro2=The market was divided up into areas depending on the type of goods that were being sold, so there would be one area for pottery objects, one for meats and so on. 
+&intro3=Explore the market of Tlatelolco to buy the items on the shopping list.
+&intro4=To find the items click on the part of the market that you think will sell each item.
+&intro5=Once you have found each item you can click on it to add it to your Aztec basket.
+&item1name=<font face="Arial" color="#222222" size="15">Squash</font>
+&item2name=<font face="Arial" color="#222222"size="15">Venison (deer meat)</font>
+&item3name=<font face="Arial" color="#222222"size="15">Maize</font>
+&item4name=<font face="Arial" color="#222222"size="15">Pottery dish from Cholula</font>
+&item5name=<font face="Arial" color="#222222"size="15">Gold lip ornament</font>
+&item6name=<font face="Arial" color="#222222"size="15">Quetzal feathers</font>
+&item7name=<font face="Arial" color="#222222"size="15">Cotton cloak with woven designs</font>
+&item8name=<font face="Arial" color="#222222"size="15">An obsidian mirror</font>
+&item9name=<font face="Arial" color="#222222"size="15">Copper bells</font>
+&item10name=<font face="Arial" color="#222222"size="15">Basket of turquoise</font>
+&item11name=<font face="Arial" color="#222222"size="15">Chocolate</font>
+&item12name=<font face="Arial" color="#222222"size="15"><font face="Arial" color="#FF0000"size="15"><a href="javascript:openGlos('../../glossary/c/cochineal.html','glos')"><u>Cochineal</u></a></font> dye</font>
+&item13name=<font face="Arial" color="#222222"size="15">Chillies</font>
+&item14name=<font face="Arial" color="#222222"size="15">Decorative knife</font>
+&item15name=<font face="Arial" color="#222222"size="15">Gold pendant</font>
+&areaPottery=The pottery area was one of the largest areas of the market at Tlatelolco. The most prized objects came from a place called Cholula, where they made pottery dishes and cups in many colours.
+&areaTextile=Cotton could be bought in bales or manufactured into clothing, such as mantles or cloaks. These were often woven with brilliantly dyed or painted designs. Only the nobles could wear cotton clothing so these items showed their high status.
+&areaMeat=There was a range of meats to buy as well as live animals. For example, there was rabbit, turkey, deer (also called venison) and duck. From the lake surrounding Tenochtitlan they obtained fish and various reptiles to sell, as well as algae, which would be pressed into cakes. There were also animal skins for sale, including jaguar skins.
+&areaVeg=The market sold a wide range of food stuffs, including lots of vegetables and fruit. Amongst the goods on sale were <font face="_sans" color="#FFCC66"size="12"><a href="javascript:openGlos('../../glossary/m/maize.html','glos')"><u>maize</u></a></font> , beans, <font face="_sans" color="#FFCC66"size="12"><a href="javascript:openGlos('../../glossary/s/squash.html','glos')"><u>squash</u></a></font>, cocoa, chilli peppers, onions, tomatoes, avocados and sweet potatoes.
+&areaMetal=Market traders sold gold-work including such jewellery as lip ornaments and pendants of tiny fish and birds. Much of this was made by <font face="_sans" color="#FFCC66"size="12"><a href="javascript:openGlos('../../glossary/m/mixtec.html','glos')"><u>Mixtec</u></a></font> craftsmen living in Tenochtitlan, or was traded from the Mixtec region. The gold-working techniques used by Aztec and other Mesoamerican people were originally developed centuries earlier in the <font face="_sans" color="#FFCC66"size="12"><a href="javascript:openGlos('../../glossary/a/andes.html','glos')"><u>Andes</u></a></font> of South America. The jewellery was worn by the <font face="_sans" color="#FFCC66"size="12"><a href="javascript:openGlos('../../glossary/n/nobility.html','glos')"><u>nobility</u></a></font> and high officials. Other available metals included copper, which could be used                                           to make such things as                                             bells, axes and earrings.
+&areaFeathers=Feather garments were woven for the most important people in Aztec society, such as the nobles and high-ranking officials. Luxury feathers from tropical birds were brought to Tenochtitlan from far away by the pochteca. Amongst these were <font face="_sans" color="#FFCC66"size="12"><a href="javascript:openGlos('../../glossary/q/quetzal.html','glos')"><u>Quetzal</u></a></font> feathers.
+&areaStone=<font face="_sans" color="#FFCC66"size="12"><a href="javascript:openGlos('../../glossary/o/obsidian.html','glos')"><u>Obsidian</u></a></font> was seen as one of the most useful stones. It was used to make various cutting implements, such as swords with obsidian edges and knives. As it has a very shiny surface obsidian was also used to make mirrors.
+&areaGems=Some precious stones were imported from distant places across the empire by the pochteca. These long distance merchants were mainly involved in the trade of luxury goods for the nobility, and this included valuable gems such as jade and turquoise. Most turquoise was imported from the far north in the area that is now <font face="_sans" color="#FFCC66"size="12"><a href="javascript:openGlos('../../glossary/n/new_mexico.html','glos')"><u>New Mexico</u></a></font>. There were special sections of the city for foreign <font face="_sans" color="#FFCC66"size="12"><a href="javascript:openGlos('../../glossary/a/artisan.html','glos')"><u>artisans</u></a></font>; these included the Mixtec craftsmen who specialized in working gem stones, like                      turquoise, to create mosaics.
+&areaChocolate=Chocolate drinks were usually reserved for people of high status, as the cocoa bean was expensive. The drink was usually prepared by grinding roasted cocoa beans then mixing the powder with water. This was beaten until it was foamy and then was often flavoured with vanilla pods or was sweetened with honey. The cocoa beans were brought to the city as tribute or by the pochteca as part of their long distance trade.
+&areaDye=These insects were valued because when ground, they produced a red dye which could be used to create colourful textiles.
+&namePottery=Pottery Area
+&nameTextile=Textiles Area
+&nameMeat=Meat and Fish Area
+&nameVeg=Vegetables and Fruit Area
+&nameMetal=Metals Area
+&nameFeathers=Luxury Feathers Area
+&nameStone=Stone-working Area
+&nameGems=Gems Area
+&nameChocolate=Chocolate Seller
+&nameDye=Cochineal Dye Seller
+&captionPottery=A pottery dish from Cholula
+&captionTextile=A codex page showing a cotton cloak with woven designs
+&captionMeat=MEAT!
+&captionVeg=A stone carving of a squash 
+&captionMetal=A gold pendant showing someone wearing a lip ornament
+&captionFeathers=A codex page showing a feather shield
+&captionStone=An obsidian mirror
+&captionGems=A codex page showing a basket of turquoise
+&captionChocolate=A codex page showing bundles of cocoa and cocoa beans
+&captionDye=A codex page showing people collecting cochineal before making the dye
+&success=Well done! You have collected all the items on the list and successfully found your way around an Aztec market. 
+This is a picture of a modern Mexican market, where descendants of the Aztecs trade their goods.
